@@ -8,10 +8,10 @@ My portfolio is a web application developed in Angular that presents my projects
 
 ## Main features
 
-*   **Tecnologías Utilizadas**: `Angular|TypeScript|HTML5|CSS3|Tailwind|Git`.
+*   **Technologies used**: `Angular``TypeScript``HTML5``CSS3``Tailwind``Git`.
     
-*   **Estructura Modular**: El proyecto está dividido en varios módulos para facilitar su mantenimiento y escalabilidad.
+*   **Modular Structure**: The project is divided into several modules for easy maintenance and scalability.
     
-*   **Interfaz Responsiva**: Diseño adaptable a diferentes dispositivos, asegurando una buena experiencia de usuario tanto en móviles como en computadoras de escritorio.
+*   **Responsive interface**: Adaptable design to different devices, ensuring a good user experience on both mobile and desktop computers.
     
-*   **Submódulo de Git**: Incluye un proyecto adicional como submódulo, demostrando la integración y gestión de dependencias externas.
+*   **Git Submodule**: Includes an additional project as a submodule, demonstrating the integration and management of external dependencies.
