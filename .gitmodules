@@ -1,0 +1,3 @@
+[submodule "submodules/@rhythmCore"]
+	path = submodules/@rhythmCore
+	url = https://github.com/exequiel-gualtieri/RhythmCore.git
